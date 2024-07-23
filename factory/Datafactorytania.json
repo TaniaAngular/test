@@ -1,0 +1,9 @@
+{
+	"name": "Datafactorytania",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cd8f80aa-3a28-4dbe-afc1-8c751a529bcd",
+		"tenantId": "2bae5b57-0eb8-48fb-ba47-990259da89d2"
+	}
+}
